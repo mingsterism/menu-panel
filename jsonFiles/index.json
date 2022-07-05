@@ -1,0 +1,292 @@
+{
+  "page": "/",
+  "components": [
+    {
+      "id": "Hero_1",
+      "content": {
+        "header": "Avianflow",
+        "highlightHeader": "highlightHeader",
+        "description": "description",
+        "primaryButton": "Start Here",
+        "primaryUrl": "",
+        "secondaryButton": "Contact us",
+        "secondaryUrl": "",
+        "primaryImg": "https://tailwindui.com/img/component-images/top-nav-with-multi-column-layout-screenshot.jpg"
+      }
+    },
+    {
+      "id": "LogoClouds_2",
+      "content": {
+        "header": "header",
+        "description": "description",
+        "primaryButton": "primaryButton",
+        "secondaryButton": "secondaryButton",
+        "logos": [
+          {
+            "name": "name",
+            "url": "url"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Feature_1",
+      "content": {
+        "header": "Run your entire fnb back office with us",
+        "description": "Never have to plan out your business again. Just run with us",
+        "features": [
+          {
+            "featureName": "Automated Accounting",
+            "featureDescription": "featureDescription"
+          },
+          {
+            "featureName": "Integrated into accounting systems",
+            "featureDescription": "featureDescription"
+          },
+          {
+            "featureName": "Expense analytics",
+            "featureDescription": "featureDescription"
+          },
+          {
+            "featureName": "Dynamic pricing",
+            "featureDescription": "featureDescription"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Feature_2",
+      "content": {
+        "header": "header",
+        "description": "description",
+        "features": [
+          {
+            "alignment": "right",
+            "featureHeader": "Automate your data entry expenses",
+            "featureDescription": "featureDescription",
+            "img": "https://tailwindui.com/img/features/feature-example-1.png",
+            "subFeatures": [
+              {
+                "subFeatureName": "Free up your staff",
+                "subFeatureDescription": "subFeatureDescription"
+              },
+              {
+                "subFeatureName": "Manage your stock take",
+                "subFeatureDescription": "subFeatureDescription"
+              },
+              {
+                "subFeatureName": "Integration with accounting systems",
+                "subFeatureDescription": "subFeatureDescription"
+              }
+            ]
+          },
+          {
+            "alignment": "left",
+            "featureHeader": "Outsource your admin operations",
+            "featureDescription": "Save valuable time and resources on your end",
+            "img": "https://tailwindui.com/img/features/feature-example-1.png",
+            "subFeatures": [
+              {
+                "subFeatureName": "Work with professional individuals",
+                "subFeatureDescription": "subFeatureDescription"
+              },
+              {
+                "subFeatureName": "Auto-scale resources during busy periods",
+                "subFeatureDescription": "subFeatureDescription"
+              },
+              {
+                "subFeatureName": "Work with a professional team",
+                "subFeatureDescription": "subFeatureDescription"
+              }
+            ]
+          },
+          {
+            "alignment": "right",
+            "featureHeader": "Optimize costs and pricing",
+            "featureDescription": "Analyze every expense and sales incoming to get the bigger picture",
+            "img": "https://tailwindui.com/img/features/feature-example-2.png",
+            "subFeatures": [
+              {
+                "subFeatureName": "Understand your expense breakdown",
+                "subFeatureDescription": "subFeatureDescription"
+              },
+              {
+                "subFeatureName": "Integrates with your POS system",
+                "subFeatureDescription": "subFeatureDescription"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "CTA_1",
+      "content": {
+        "header": "Start today for free",
+        "description": "Give us a trial for 60 days and see how this system can improve your business and save your time",
+        "primaryButton": "Start Today"
+      }
+    },
+    {
+      "id": "Blog_2",
+      "content": {
+        "header": "header",
+        "description": "description",
+        "blogCards": [
+          {
+            "blogType": "blogType",
+            "blogHeader": "blogHeader",
+            "blogDescription": "blogDescription",
+            "blogImg": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+            "blogAuthor": {
+              "name": "name",
+              "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+              "blogCreatedDate": "blogCreatedDate"
+            },
+            "blogReadTime": "blogReadTime"
+          },
+          {
+            "blogType": "blogType",
+            "blogHeader": "blogHeader",
+            "blogDescription": "blogDescription",
+            "blogImg": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+            "blogAuthor": {
+              "name": "name",
+              "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+              "blogCreatedDate": "blogCreatedDate"
+            },
+            "blogReadTime": "blogReadTime"
+          },
+          {
+            "blogType": "blogType",
+            "blogHeader": "blogHeader",
+            "blogDescription": "blogDescription",
+            "blogImg": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+            "blogAuthor": {
+              "name": "name",
+              "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+              "blogCreatedDate": "blogCreatedDate"
+            },
+            "blogReadTime": "blogReadTime"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Pricing_3",
+      "content": {
+        "headline": "Get started today",
+        "description": "Affordable pricing that every cafe can start using",
+        "primaryAction": "Start today",
+        "secondaryAction": "Claim your free trial",
+        "infoText": [
+          {
+            "title": "Start integrating all your expenses",
+            "description": "No limits to how much you can integrate your expenses",
+            "icon": ""
+          },
+          {
+            "title": "Analyze your sales",
+            "description": "Start analyzing your sales today",
+            "icon": ""
+          },
+          {
+            "title": "Determine your menu profitability",
+            "description": "Understand what items on your menu is best",
+            "icon": ""
+          }
+        ],
+        "plusPoints": [
+          "Unlimited projects",
+          "unlimited storage",
+          "cancel anytime",
+          "Full capacity"
+        ],
+        "plans": [
+          {
+            "name": "name",
+            "price": "$5",
+            "subText": "Setup Fee",
+            "description": "description",
+            "features": [
+              "feature"
+            ],
+            "mostPopular": false
+          },
+          {
+            "name": "name",
+            "price": "$100",
+            "subText": "Monthly Fee",
+            "description": "description",
+            "features": [
+              "feature"
+            ],
+            "mostPopular": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "Contact_2",
+      "content": {
+        "phone": "phone no.",
+        "email": "email",
+        "introTitle": "Reach out to us",
+        "introMessage": "we'd love to chat with you and explore ideas to work together to build things",
+        "socials": [
+          {
+            "name": "facebook",
+            "icon": "iconpath",
+            "url": "",
+            "path": "M22.258 1H2.242C1.556 1 1 1.556 1 2.242v20.016c0 .686.556 1.242 1.242 1.242h10.776v-8.713h-2.932V11.39h2.932V8.887c0-2.906 1.775-4.489 4.367-4.489 1.242 0 2.31.093 2.62.134v3.037l-1.797.001c-1.41 0-1.683.67-1.683 1.653v2.168h3.362l-.438 3.396h-2.924V23.5h5.733c.686 0 1.242-.556 1.242-1.242V2.242C23.5 1.556 22.944 1 22.258 1"
+          },
+          {
+            "name": "github",
+            "icon": "iconpath",
+            "url": "",
+            "path": "M11.999 0C5.373 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.386.6.11.819-.26.819-.578 0-.284-.01-1.04-.017-2.04-3.337.724-4.042-1.61-4.042-1.61-.545-1.386-1.332-1.755-1.332-1.755-1.09-.744.082-.73.082-.73 1.205.086 1.838 1.238 1.838 1.238 1.07 1.833 2.81 1.304 3.493.996.109-.775.419-1.303.762-1.603C7.145 17 4.343 15.97 4.343 11.373c0-1.31.468-2.382 1.236-3.22-.124-.304-.536-1.524.118-3.176 0 0 1.007-.323 3.3 1.23.956-.266 1.983-.4 3.003-.404 1.02.005 2.046.138 3.005.404 2.29-1.553 3.296-1.23 3.296-1.23.655 1.652.243 2.872.12 3.176.77.838 1.233 1.91 1.233 3.22 0 4.61-2.806 5.624-5.478 5.921.43.37.814 1.103.814 2.223 0 1.603-.015 2.898-.015 3.291 0 .321.217.695.825.578C20.565 21.796 24 17.3 24 12c0-6.627-5.373-12-12.001-12"
+          },
+          {
+            "name": "twitter",
+            "icon": "iconpath",
+            "url": "",
+            "path": "M7.548 22.501c9.056 0 14.01-7.503 14.01-14.01 0-.213 0-.425-.015-.636A10.02 10.02 0 0024 5.305a9.828 9.828 0 01-2.828.776 4.94 4.94 0 002.165-2.724 9.867 9.867 0 01-3.127 1.195 4.929 4.929 0 00-8.391 4.491A13.98 13.98 0 011.67 3.9a4.928 4.928 0 001.525 6.573A4.887 4.887 0 01.96 9.855v.063a4.926 4.926 0 003.95 4.827 4.917 4.917 0 01-2.223.084 4.93 4.93 0 004.6 3.42A9.88 9.88 0 010 20.289a13.941 13.941 0 007.548 2.209"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FAQ_2",
+      "content": {
+        "header": "Got questions? We are here to help",
+        "questions": [
+          {
+            "question": "How much do I have to pay",
+            "answer": "You only have to pay when you sign up with us full time"
+          },
+          {
+            "question": "How can I start today",
+            "answer": "Just sign up and get started in less than 5 minutes"
+          },
+          {
+            "question": "How will this really help my business? ",
+            "answer": "We use the best practices for cafes and restaurants to figure out what works for FnB businesses"
+          },
+          {
+            "question": "Is my data safe? ",
+            "answer": "Your data is totally safe. We ensure the best practices and standards to ensure we keep your data private"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Newsletter_1",
+      "content": {
+        "header": "Get latest updates with FnB best practices",
+        "description": "Understand how to run your cafe and restaurant with our best insights",
+        "primaryButton": "Get my guide book",
+        "inputDescription": "Enter your email"
+      }
+    }
+  ]
+}

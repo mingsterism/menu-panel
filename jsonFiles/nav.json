@@ -1,0 +1,172 @@
+[
+  {
+    "location": "left",
+    "type": "logo",
+    "href": "/",
+    "src": "./src/logo.png",
+    "child": []
+  },
+  {
+    "location": "left",
+    "name": "About",
+    "type": "text",
+    "href": "/about-us",
+    "child": []
+  },
+  {
+    "location": "right",
+    "name": "Contact Us",
+    "type": "text",
+    "href": "/contact",
+    "child": []
+  },
+  {
+    "location": "right",
+    "name": "Pricing",
+    "type": "text",
+    "href": "/pricing",
+    "child": []
+  },
+  {
+    "location": "right",
+    "name": "Sign Up",
+    "type": "action-button",
+    "subType": "primary",
+    "href": "/about",
+    "child": []
+  },
+  {
+    "location": "right",
+    "name": "Sign In",
+    "type": "action-button",
+    "subType": "secondary",
+    "href": "/about",
+    "child": []
+  },
+  {
+    "location": "left",
+    "name": "Solutions",
+    "type": "text",
+    "href": "/more",
+    "cta": [
+      {
+        "name": "Watch Demo",
+        "logo": "some logo",
+        "description": "some description",
+        "url": "/someUrl"
+      },
+      {
+        "name": "Watch Demo",
+        "logo": "some logo",
+        "description": "some description",
+        "url": "/someUrl"
+      }
+    ],
+    "child_type": "single-nav-expand",
+    "child": {
+      "type": "single-nav-column",
+      "header": "Features",
+      "content": [
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "Automate data entry",
+          "description": "this is some description",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "nav name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        }
+      ]
+    }
+  },
+  {
+    "location": "left",
+    "name": "Features",
+    "type": "text",
+    "href": "/more",
+    "cta": [
+      {
+        "name": "Watch Demo",
+        "logo": "some logo",
+        "svgPath": "M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z",
+        "description": "some description",
+        "url": "/someUrl"
+      },
+      {
+        "name": "Watch Demo",
+        "logo": "some logo",
+        "svgPath": "M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z",
+        "description": "some description",
+        "url": "/someUrl"
+      }
+    ],
+    "child_type": "single-nav-expand",
+    "child": {
+      "type": "single-nav-column",
+      "header": "Features",
+      "content": [
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "Automate data entry",
+          "description": "this is some description",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "nav name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/someUrl"
+        }
+      ]
+    }
+  }
+]

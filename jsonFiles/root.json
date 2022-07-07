@@ -1,6 +1,6 @@
 [
   {
-    "page": "/about-me/",
+    "page": "/about-us/",
     "components": [
       {
         "id": "Hero_2",
@@ -206,13 +206,326 @@
     ]
   },
   {
-    "page": "/solution/workflow-management",
+    "page": "/pricing/",
     "components": [
       {
-        "id": "Hero_1",
+        "id": "Hero_2",
+        "content": {
+          "header": "Our Pricing",
+          "highlightHeader": "for restaurants",
+          "description": "description",
+          "primaryButton": "primaryButton",
+          "secondaryButton": "secondaryButton"
+        }
+      },
+      {
+        "id": "Pricing_1",
         "content": {
           "header": "header",
-          "highlightHeader": "highlightHeader",
+          "description": "description",
+          "perks": [
+            {
+              "category": "Other Perks",
+              "list": [
+                {
+                  "name": "24/7 customer support",
+                  "value": [
+                    "yes",
+                    "yes",
+                    "yes"
+                  ]
+                },
+                {
+                  "name": "Instant Notifications",
+                  "value": [
+                    "yes",
+                    "yes",
+                    "no"
+                  ]
+                },
+                {
+                  "name": "Budgeting Tools",
+                  "value": [
+                    "yes",
+                    "yes",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "category": "Essentials",
+              "list": [
+                {
+                  "name": "24/7 customer support",
+                  "value": [
+                    "yes",
+                    "yes",
+                    "yes"
+                  ]
+                },
+                {
+                  "name": "Instant Notifications",
+                  "value": [
+                    "yes",
+                    "yes",
+                    "no"
+                  ]
+                },
+                {
+                  "name": "Budgeting Tools",
+                  "value": [
+                    "yes",
+                    "yes",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ],
+          "plans": [
+            {
+              "name": "starter",
+              "type": "monthly",
+              "priceMonthly": "$5",
+              "priceYearly": "$200",
+              "primary": false,
+              "description": "this is a long description of the system and how it helps people become better",
+              "highlights": [
+                "basic invoicing",
+                "easy to use acouting",
+                "multi accounts"
+              ],
+              "mostPopular": false,
+              "details": [
+                {
+                  "name": "Essentials",
+                  "features": [
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "easy to use accounting",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "multi accounts",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "invoicing",
+                      "value": "tick"
+                    }
+                  ]
+                },
+                {
+                  "name": "Other Perks",
+                  "features": [
+                    {
+                      "name": "24/7 customer support",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "instant notifications",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "budgeting tools",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "digital receipts",
+                      "value": "tick"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "scale",
+              "type": "monthly",
+              "priceMonthly": "price",
+              "priceYearly": "price",
+              "primary": true,
+              "description": "this is a long description of the system and how it helps people become better",
+              "highlights": [
+                "basic invoicing",
+                "easy to use acouting",
+                "multi accounts",
+                "test accounts",
+                "unlimited users"
+              ],
+              "mostPopular": false,
+              "details": [
+                {
+                  "name": "Essentials",
+                  "features": [
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "easy to use accounting",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "multi accounts",
+                      "value": "tick"
+                    }
+                  ]
+                },
+                {
+                  "name": "Other Perks",
+                  "features": [
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "easy to use accounting",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "multi accounts",
+                      "value": "tick"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "growth",
+              "type": "monthly",
+              "priceMonthly": "price",
+              "priceYearly": "price",
+              "primary": false,
+              "description": "description",
+              "highlights": [
+                "basic invoicing",
+                "easy to use acouting",
+                "multi accounts"
+              ],
+              "mostPopular": false,
+              "details": [
+                {
+                  "name": "Essentials",
+                  "features": [
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "easy to use accounting",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "multi accounts",
+                      "value": "tick"
+                    }
+                  ]
+                },
+                {
+                  "name": "Other Perks",
+                  "features": [
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "tax savings",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "easy to use accounting",
+                      "value": "tick"
+                    },
+                    {
+                      "name": "multi accounts",
+                      "value": "tick"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "Blog_2",
+        "content": {
+          "header": "header",
+          "description": "description",
+          "blogCards": [
+            {
+              "blogType": "blogType",
+              "blogHeader": "blogHeader",
+              "blogDescription": "blogDescription",
+              "blogImg": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+              "blogAuthor": {
+                "name": "name",
+                "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+                "blogCreatedDate": "blogCreatedDate"
+              },
+              "blogReadTime": "blogReadTime"
+            },
+            {
+              "blogType": "blogType",
+              "blogHeader": "blogHeader",
+              "blogDescription": "blogDescription",
+              "blogImg": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+              "blogAuthor": {
+                "name": "name",
+                "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+                "blogCreatedDate": "blogCreatedDate"
+              },
+              "blogReadTime": "blogReadTime"
+            },
+            {
+              "blogType": "blogType",
+              "blogHeader": "blogHeader",
+              "blogDescription": "blogDescription",
+              "blogImg": "https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+              "blogAuthor": {
+                "name": "name",
+                "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+                "blogCreatedDate": "blogCreatedDate"
+              },
+              "blogReadTime": "blogReadTime"
+            }
+          ]
+        }
+      },
+      {
+        "id": "CTA_1",
+        "content": {
+          "header": "header",
+          "description": "description",
+          "primaryButton": "primaryButton"
+        }
+      }
+    ]
+  },
+  {
+    "page": "/solution/solution-b",
+    "components": [
+      {
+        "id": "Hero_2",
+        "content": {
+          "header": "The ultimate",
+          "highlightHeader": "solution B",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton",
@@ -308,7 +621,7 @@
       {
         "id": "Blog_2",
         "content": {
-          "header": "header",
+          "header": "Our latest insights",
           "description": "description",
           "blogCards": [
             {
@@ -353,7 +666,7 @@
       {
         "id": "FAQ_2",
         "content": {
-          "header": "header",
+          "header": "Frequently Asked Questions",
           "questions": [
             {
               "question": "question 1",
@@ -406,31 +719,17 @@
     ]
   },
   {
-    "page": "/solution/workflow-management",
+    "page": "/solution/solution-a",
     "components": [
       {
         "id": "Hero_2",
         "content": {
-          "header": "Some headline",
-          "highlightHeader": "for restaurants",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "secondaryButton": "secondaryButton"
-        }
-      },
-      {
-        "id": "LogoClouds_2",
-        "content": {
-          "header": "header",
+          "header": "Ultimate solution ",
+          "highlightHeader": "A",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton",
-          "logos": [
-            {
-              "name": "name",
-              "url": "url"
-            }
-          ]
+          "primaryImg": "https://tailwindui.com/img/component-images/top-nav-with-multi-column-layout-screenshot.jpg"
         }
       },
       {
@@ -522,7 +821,7 @@
       {
         "id": "Blog_2",
         "content": {
-          "header": "header",
+          "header": "Our latest insights",
           "description": "description",
           "blogCards": [
             {
@@ -565,6 +864,30 @@
         }
       },
       {
+        "id": "FAQ_2",
+        "content": {
+          "header": "Frequently Asked Questions",
+          "questions": [
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            },
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            },
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            },
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            }
+          ]
+        }
+      },
+      {
         "id": "Contact_2",
         "content": {
           "phone": "phone no.",
@@ -592,82 +915,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "FAQ_2",
-        "content": {
-          "header": "header",
-          "questions": [
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            },
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            },
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            },
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            }
-          ]
-        }
-      },
-      {
-        "id": "Newsletter_1",
-        "content": {
-          "header": "header",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "inputDescription": "inputDescription"
-        }
-      },
-      {
-        "id": "Pricing_3",
-        "content": {
-          "headline": "headline",
-          "description": "description",
-          "primaryAction": "Primary Action",
-          "secondaryAction": "Secondary Action",
-          "infoText": [
-            {
-              "title": "some title",
-              "description": "this is some description",
-              "icon": ""
-            },
-            {
-              "title": "some title",
-              "description": "this is some description",
-              "icon": ""
-            },
-            {
-              "title": "some title",
-              "description": "this is some description",
-              "icon": ""
-            }
-          ],
-          "plusPoints": [
-            "Unlimited projects",
-            "unlimited storage",
-            "cancel anytime",
-            "Full capacity"
-          ],
-          "plans": [
-            {
-              "name": "name",
-              "price": "price",
-              "description": "description",
-              "features": [
-                "feature"
-              ],
-              "mostPopular": false
-            }
-          ]
-        }
       }
     ]
   },
@@ -677,26 +924,11 @@
       {
         "id": "Hero_2",
         "content": {
-          "header": "The restaurant operating system",
-          "highlightHeader": "for restaurants",
+          "header": "Feature B",
+          "highlightHeader": "The ultimate feature",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton"
-        }
-      },
-      {
-        "id": "LogoClouds_2",
-        "content": {
-          "header": "header",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "secondaryButton": "secondaryButton",
-          "logos": [
-            {
-              "name": "name",
-              "url": "url"
-            }
-          ]
         }
       },
       {
@@ -943,26 +1175,11 @@
       {
         "id": "Hero_2",
         "content": {
-          "header": "The restaurant operating system",
-          "highlightHeader": "for restaurants",
+          "header": "Feature A",
+          "highlightHeader": "The killer feature",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton"
-        }
-      },
-      {
-        "id": "LogoClouds_2",
-        "content": {
-          "header": "header",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "secondaryButton": "secondaryButton",
-          "logos": [
-            {
-              "name": "name",
-              "url": "url"
-            }
-          ]
         }
       },
       {

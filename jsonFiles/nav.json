@@ -29,14 +29,6 @@
   },
   {
     "location": "right",
-    "name": "Sign Up",
-    "type": "action-button",
-    "subType": "primary",
-    "href": "/about",
-    "child": []
-  },
-  {
-    "location": "right",
     "name": "Sign In",
     "type": "action-button",
     "subType": "secondary",
@@ -50,10 +42,10 @@
     "href": "/more",
     "cta": [
       {
-        "name": "Watch Demo",
+        "name": "workflow management",
         "logo": "some logo",
         "description": "some description",
-        "url": "/someUrl"
+        "url": "/solution/solution-a"
       },
       {
         "name": "Watch Demo",
@@ -65,42 +57,20 @@
     "child_type": "single-nav-expand",
     "child": {
       "type": "single-nav-column",
-      "header": "Features",
       "content": [
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "Automate data entry",
+          "name": "Solution A",
           "description": "this is some description",
-          "url": "/someUrl"
+          "url": "/solution/solution-b"
         },
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "nav name title",
+          "name": "Solution B",
           "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
+          "url": "/solution/solution-b"
         }
       ]
     }
@@ -109,7 +79,7 @@
     "location": "left",
     "name": "Features",
     "type": "text",
-    "href": "/more",
+    "href": "",
     "cta": [
       {
         "name": "Watch Demo",
@@ -134,37 +104,16 @@
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "Automate data entry",
+          "name": "Feature A",
           "description": "this is some description",
-          "url": "/someUrl"
+          "url": "/feature/featurea"
         },
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "nav name title",
+          "name": "Feature B",
           "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
+          "url": "/feature/featureb"
         }
       ]
     }
